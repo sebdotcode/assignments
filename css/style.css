@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Monofett&display=swap');
+
 #body {
-    background-color: rgb(237, 144, 23);
+    background-color: rgb(235, 161, 58);
 }
-.h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: aquamarine;
+h1 {
+    font-family: "Monofett";
 }
 
 h2 {

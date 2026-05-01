@@ -1,11 +1,28 @@
-body {
-    background-color: rgb(65, 135, 165);
-}
-@font-face {
-    font-family:nabla;
-    src: url();
-}
-p {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
 
+h1 {
+    font-family: "Nabla";
+    
 }
+body {
+    background-color: rgb(116, 194, 227);
+}
+h2 {
+    @font-face {
+        font-family: ;
+        src: url();
+        
+    }
+    color: antiquewhite;
+}
+
+p {color: blanchedalmond;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+li {color: blanchedalmond;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
