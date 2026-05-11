@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=BJCree:wght@400;500;600;700&family=Monofett&family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+h1 {font-family: "BJCree", serif;
+    font-style: normal;
+color: rgb(255, 255, 255);
+display: flex;
+justify-content: center;}
+
+body {
+    background-color: black;
+}
